@@ -1,4 +1,4 @@
-#Calculator using Javascript
+# Calculator using Javascript
 🧮 Simple Calculator
 A responsive and interactive calculator built with HTML, CSS, and JavaScript. This project performs basic arithmetic operations and offers a clean user interface suitable for both desktop and mobile devices.
 
