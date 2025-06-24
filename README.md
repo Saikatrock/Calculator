@@ -9,7 +9,7 @@ View the Calculator in Action
 
 📸 Screenshots
 
-![image alt]()
+![screen-shot](https://github.com/Saikatrock/Calculator/blob/126629de61389f35a60cae469c783fc8bd1e201a/Screenshot%202025-06-23%20133953.png)
 
 
 🛠️ Features
